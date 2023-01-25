@@ -1,0 +1,3 @@
+﻿  cave.cpp
+C:\Users\adamk\Desktop\C++\CaveGenerator_Console\CaveGenerator_Console\cave.cpp(8,10): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+  CaveGenerator_Console.vcxproj -> C:\Users\adamk\Desktop\C++\CaveGenerator_Console\x64\Debug\CaveGenerator_Console.exe
